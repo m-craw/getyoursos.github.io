@@ -1,0 +1,5 @@
+gear tree 5 x 10 foot
+houses man basket 4 x 6 foot
+
+gear tree designed to hold a man basket with all shackles, chains and plugs to accomodate
+dockrwork operations.
